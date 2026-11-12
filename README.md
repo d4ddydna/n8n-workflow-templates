@@ -1,3 +1,18 @@
+# n8n Workflow Library (my fork)
+
+> Fork of [Danitilahun/n8n-workflow-templates](https://github.com/Danitilahun/n8n-workflow-templates) by **Danitilahun**. The 2,053-workflow collection and the FastAPI and SQLite FTS5 documentation server are their work. Note: the upstream README below contains a leftover merge-conflict marker; I've left it untouched.
+
+**How I use it:** this is my searchable reference library when I scope automation work. Before building a workflow for a client, I search here for existing patterns by integration or trigger type, then adapt the closest one instead of starting from scratch.
+
+```bash
+pip install -r requirements.txt
+python run.py          # → http://localhost:8000
+```
+
+---
+
+## Original README
+
 <<<<<<< HEAD
 # ⚡ N8N Workflow Collection & Documentation
 
